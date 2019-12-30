@@ -21,4 +21,4 @@ The readers will get the opportunity to explore open-source datasets including h
 
 # Contributors
 
-- [Suresh Kumar Mukhiya](www.github.com/sureshHARDIYA)
+- [Suresh Kumar Mukhiya](https://github.com/sureshHARDIYA)
