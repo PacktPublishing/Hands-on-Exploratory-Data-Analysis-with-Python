@@ -9,7 +9,7 @@ In this chapter we are going to learn and revise:
 - Software tools available for EDA
 - Getting started with EDA
 
-->[![Read More about EDA fundamentals](readmore.gif)](https://www.packtpub.com)<-
+[![Read More about EDA fundamentals](readmore.gif)](https://www.packtpub.com)
 
 # Further Study
 - Making Sense of Data: A Practical Guide to Exploratory Data Analysis and Data Mining Author(s): Glenn J. Myatt First published:14 June 2006 Print ISBN:9780470074718 |Online ISBN:9780470101025 |DOI:10.1002/0470101024
