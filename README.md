@@ -19,6 +19,15 @@ The readers will get the opportunity to explore open-source datasets including h
 - Chapter 11: [EDA using wine quality dataset](https://github.com/PacktPublishing/hands-on-exploratory-data-analysis-with-python/tree/master/Chapter%2011)
 - Chapter 12: [Appendix: String Manipulation](https://github.com/PacktPublishing/hands-on-exploratory-data-analysis-with-python/tree/master/Appendix)
 
+# Want to become expert
+
+It is important to practice what you have learned from this book. Hence, we have created a comprehensive mobile apps where you can create a simple account and practice Exploratory Data Analysis. Here is the link to both IOS and Android app:
+
+<div style="text-align:center">
+ [<img src="appstore" alt="app store" />](https://apps.apple.com/no/app/tech-quiz/id1510190983)
+ [<img src="googleplay" alt="app store" />](https://play.google.com/store/apps/details?id=com.sureshkumarmukhiya.techquiz)
+</div>
+
 # Contributors
 
 - [Suresh Kumar Mukhiya](https://github.com/sureshHARDIYA)
