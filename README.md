@@ -24,8 +24,10 @@ The readers will get the opportunity to explore open-source datasets including h
 It is important to practice what you have learned from this book. Hence, we have created a comprehensive mobile apps where you can create a simple account and practice Exploratory Data Analysis. Here is the link to both IOS and Android app:
 
 <div style="text-align:center">
- [<img src="appstore" alt="app store" />](https://apps.apple.com/no/app/tech-quiz/id1510190983)
- [<img src="googleplay" alt="app store" />](https://play.google.com/store/apps/details?id=com.sureshkumarmukhiya.techquiz)
+
+
+ [![appstore](https://user-images.githubusercontent.com/2022919/82116299-089ba600-9769-11ea-9e34-b7bc3ea27929.png)](https://apps.apple.com/no/app/tech-quiz/id1510190983)
+ [![googleplay](https://user-images.githubusercontent.com/2022919/82116302-0a656980-9769-11ea-8426-6460219fc76f.png)](https://play.google.com/store/apps/details?id=com.sureshkumarmukhiya.techquiz)
 </div>
 
 # Contributors
