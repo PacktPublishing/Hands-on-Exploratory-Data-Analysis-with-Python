@@ -19,6 +19,12 @@ The readers will get the opportunity to explore open-source datasets including h
 - Chapter 11: [EDA using wine quality dataset](https://github.com/PacktPublishing/hands-on-exploratory-data-analysis-with-python/tree/master/Chapter%2011)
 - Chapter 12: [Appendix: String Manipulation](https://github.com/PacktPublishing/hands-on-exploratory-data-analysis-with-python/tree/master/Appendix)
 
+
+# Troubleshooting with the codebase
+
+Please note we tested the codes presented in this book with the specific version of `pandas`, `matplotlib`, `python` and other Python libraries.  Running the code with a newer or older version might result in warnings and errors. If you encounter any errors, feel free to raise an [issue here](https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc), and we will try our best to sort it out. 
+
+
 # Want to become expert
 
 It is important to practice what you have learned from this book. Hence, we have created a comprehensive mobile apps where you can create a simple account and practice Exploratory Data Analysis. Here is the link to both IOS and Android app:
@@ -26,8 +32,8 @@ It is important to practice what you have learned from this book. Hence, we have
 <div style="text-align:center">
 
 
- [![appstore](https://user-images.githubusercontent.com/2022919/82116299-089ba600-9769-11ea-9e34-b7bc3ea27929.png)](https://apps.apple.com/no/app/tech-quiz/id1510190983)
- [![googleplay](https://user-images.githubusercontent.com/2022919/82116302-0a656980-9769-11ea-8426-6460219fc76f.png)](https://play.google.com/store/apps/details?id=com.sureshkumarmukhiya.techquiz)
+ [App Store](https://apps.apple.com/no/app/tech-quiz/id1510190983)
+ [Google Play](https://play.google.com/store/apps/details?id=com.sureshkumarmukhiya.techquiz)
 </div>
 
 # Contributors
