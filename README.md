@@ -36,8 +36,8 @@ It is important to practice what you have learned from this book. Hence, we have
 <div style="text-align:center">
 
 
- [App Store](https://apps.apple.com/no/app/tech-quiz/id1510190983)
- [Google Play](https://play.google.com/store/apps/details?id=com.sureshkumarmukhiya.techquiz)
+ - [App Store](https://apps.apple.com/no/app/tech-quiz/id1510190983)
+ - [Practice Quiz - Web version](https://saswebtechs.com.np/categories/5e9c5bcd002d0b0004658fc9)
 </div>
 
 # Contributors
