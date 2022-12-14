@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781789537253)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Hands on Exploratory Data analysis with Python
 
 Data encompasses a collection of discrete objects, events out of context, and facts. Processing such data provides a multitude of information. Processing such information based on our experience, judgment or jurisdiction elicits knowledge as the result of learning. But the million-dollar question is - how do we get meaningful information from such data? The answer to this is Exploratory Data Analysis (EDA) as a process for investigating datasets, elucidating subjects, and visualizing the outcomes. EDA is an approach for data analysis that applies a diversity of techniques to maximize certain insights into a data set; reveal underlying structure; extract significant variables; detect outliers and anomalies; test underlying assumptions; develop models, and determine best parameters for future estimations. This book "Hands-On Exploratory Data Analysis with Python" is built on providing practical knowledge about the main pillars of EDA including data cleaning, data preparation, data exploration, and data visualization. Why visualization? Well, several research studies reveal portraying data in graphical form is clearer and makes complex statistical data analyses and business intelligence more marketable.
