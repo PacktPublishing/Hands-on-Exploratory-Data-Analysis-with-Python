@@ -40,8 +40,7 @@ It is important to practice what you have learned from this book. Hence, we have
 <div style="text-align:center">
 
 
- - [App Store](https://apps.apple.com/no/app/tech-quiz/id1510190983)
- - [Practice Quiz - Web version](https://saswebtechs.com.np/categories/5e9c5bcd002d0b0004658fc9)
+ - [Web Application](https://skmukhiyaji.netlify.app/books/hands-on-exploratory-data-analysis-with-python/quizzes)
 </div>
 
 # Contributors
